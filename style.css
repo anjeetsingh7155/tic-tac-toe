@@ -50,3 +50,11 @@ h1 {
     border-radius: 5px;
     border: none;
 }
+#message{
+    color: #2d2a11;
+    font-size: 8vmin;
+
+}
+.hide {
+  display: none;  
+}
